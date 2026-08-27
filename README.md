@@ -1,4 +1,4 @@
-## Hi there 👋
+# HI EVERYONE 👋
 
 <!--
 **SmileDogge97/SmileDogge97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
