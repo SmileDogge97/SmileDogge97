@@ -6,10 +6,27 @@
     </head>
     <body>
         <header>
-            <div></div>
+            <div>
+                <img src="image.png" alt="Greeting banner">
+            </div>
         </header>
         <main>
-            <div></div>
+            <div>
+                <div>
+                <section>
+                    <h1>Introduce</h1>
+                </section>
+                <section>
+                    <h1>Social media</h1>
+                </section>
+                <section>
+                    <h1>Skills</h1>
+                </section>
+                <section>
+                    <h1>Education</h1>
+                </section>
+                </div>
+            </div>
         </main>
     </body>
 </html>
