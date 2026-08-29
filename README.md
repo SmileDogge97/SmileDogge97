@@ -2,7 +2,7 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title>¡Welcome to my Github Profile! :v</title>
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
         <header>
@@ -14,7 +14,35 @@
             <div>
                 <div>
                 <section>
-                    <h1>Introduce</h1>
+                    <h1>Introduction</h1>
+                    <p>🔭 I have been studying Html, Css for a <a href="https://github.com/SmileDogge97/Viajia_fronted_learning">new project.</a></p>
+                    <p>I'm from Oaxaca State, Mexico.</p>
+                    <p>I studied at <a href="https://voaxaca.tecnm.mx/">Instituto Tecnológico del Valle de Oaxaca.</a></p>
+                    <p>I am available to start work immediately.</p>
+                    <p>Tecnologies that I used:</p>
+                    <ul>
+                        <li>Android Studio</li>
+                        <li>Github</li>
+                        <li>Postman</li>
+                        <li>Charles Debug Proxy</li>
+                        <li>Figma</li>
+                        <li>Gitlab</li>
+                        <li>Jenkins</li>
+                        <li>Veracode</li>
+                        <li>Visual Studio Code</li>
+                    </ul>
+                    <p><a href="JOSE FRANCISCO's Resume.pdf">My Resume</a></p>
+                    <p>My suggested repositories:</p>
+                    <ul>
+                        <li><a href="https://github.com/SmileDogge97/Viajia_fronted_learning">My Study about frontend web</a></li>
+                        <li><a href="https://github.com/SmileDogge97/Acordeon_Desarrollo_Software">My Information bank</a></li>
+                        <li><a href="https://github.com/SmileDogge97/ConvertirdorUnidadesAndroid">My units converter for android</a></li>
+                        <li><a href="https://github.com/SmileDogge97/SpringFramework-6-Spring-Boot-3-desde-cero-a-experto">My study about backend/spring boot</a></li>
+                        <li><a href="https://github.com/SmileDogge97/Jetpack-Compose-Curso-definitivo-desde-0-2023-">My study about Jetpack compose</a></li>
+                        <li><a href="https://github.com/SmileDogge97/Secci-n17_TicTacToe">The Tic-Tac-Toe minigame</a></li>
+                        <li><a href="https://github.com/SmileDogge97/Seccion_16_DuckHunt_Game"> The duck hunt minigame</a></li>
+                        <li><a href="https://github.com/SmileDogge97/AppsUni"> Exercises of the University</a></li>
+                    </ul>
                 </section>
                 <section>
                     <h1>Social media</h1>
