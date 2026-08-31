@@ -46,9 +46,22 @@
                 </section>
                 <section>
                     <h1>Social media</h1>
+                    <ul>
+                        <li><a href="https://www.linkedin.com/in/francisco-martinez250797/">LinkedId</a></li>
+                    </ul>
                 </section>
                 <section>
                     <h1>Skills</h1>
+                    <ul>
+                        <li>Java</li>
+                        <li>Kotlin</li>
+                        <li>SQL</li>
+                        <li>Spring Boot</li>
+                        <li>Android Jetpack</li>
+                        <li>Jetpack Compose</li>
+                        <li>Html</li>
+                        <li>CSS</li>
+                    </ul>
                 </section>
                 <section>
                     <h1>Education</h1>
